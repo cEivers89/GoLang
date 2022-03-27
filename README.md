@@ -1,1 +1,1 @@
-# GoLang
+Sample GoLang projects
